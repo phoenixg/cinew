@@ -11,7 +11,7 @@ function smtp_mail ( $sendto_email, $subject, $body ,$att=array()) {
 	$mail->Port = 25;//465 for ssl
 	//$mail->SMTPSecure = "ssl";
 	$mail->Username = "306761352@qq.com";   
-	$mail->Password = "happyhuang";    
+	$mail->Password = "不告诉你";    
 
 	$mail->FromName =  "";//爱业星辰 乱码
 	$mail->SMTPAuth = true;          
