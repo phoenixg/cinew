@@ -1,0 +1,1 @@
+<p>A new article has just been totally translated! After proofread by administrator, it can be read.</p>

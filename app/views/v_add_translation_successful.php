@@ -1,0 +1,1 @@
+<p>translation added successfully!<?=anchor('article/translate','Click to translate another paragraph')?></p>
